@@ -1,4 +1,4 @@
-# NextJS Mistral AI Landing Page Clone
+# Mistral AI Landing Page Clone
 
 ## Tech Stack
 - NextJS 15.2
