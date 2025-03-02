@@ -136,7 +136,6 @@ const MistralAppearCard = () => {
               <div className="relative h-full w-full max-w-[500px]">
                 <Image
                   alt="Feature image"
-                  loading="lazy"
                   quality={100}
                   className="object-contain"
                   fill
