@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: hsl(45, 100%, 96%);
+  --color-primary: hsl(17 96% 52%);
+  --color-mistral-beige-deep: hsl(45 100% 88%);
+  --color-mistral-beige-dark: hsl(45 100% 80%);
+  --color-grid-color: hsl(45, 100%, 96.1%);
+  --color-mistral-orange: hsl(30, 100%, 51%);
+}
